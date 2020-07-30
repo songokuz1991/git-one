@@ -1,3 +1,7 @@
 body {
 	font-family: Arial;
 }
+
+
+// when we push we say where we wanna push then what branch we wanna push and in our case we say master branch
+git push https://github.com/songokuz1991/git-one.git
